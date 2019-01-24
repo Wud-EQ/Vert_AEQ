@@ -1,3 +1,10 @@
-# Vert_AEQ
+# Vert UI for AEQ
 
-This is based off the Savok Vert UI - https://www.eqinterface.com/downloads/fileinfo.php?id=6735
+=======
+
+Based off of Everquest Savok Vert UI by Luolas
+
+Original Located
+EQInterface Site: https://www.eqinterface.com/downloads/fileinfo.php?id=6735
+
+=======
